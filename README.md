@@ -27,7 +27,7 @@ echo '<path>/known_hosts/' >> .gitignore
     path: <path>/known_hosts
 ```
 
-4. When using ```ssh``` use to the ```know_hosts``` file from this repository
+4. When using ```ssh``` use to the ```known_hosts``` file from this repository
 
 ```
 ssh -o UserKnownHostsFile <path>/known_hosts/known_hosts
