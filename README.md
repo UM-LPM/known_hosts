@@ -9,7 +9,7 @@ Metavariables: ```<path>```
 1. Clone this repository somewhere inside your main repository
 
 ```bash
-git -C <path> clone https://github.com/UM-LPM/known_hosts.git 
+git -C '<path>' clone https://github.com/UM-LPM/known_hosts.git 
 ```
 
 2. Add the path to the nested repository to ```.gitignore```
