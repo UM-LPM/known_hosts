@@ -4,6 +4,8 @@ This repo contains SSH host keys of our servers.
 
 ## Setup
 
+Metavariables: ```<path>```
+
 1. Clone this repository somewhere inside your main repository
 
 ```bash
