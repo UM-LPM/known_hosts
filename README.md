@@ -10,7 +10,7 @@ This repo contains SSH host keys of our servers.
 git -C <path> clone https://github.com/UM-LPM/known_hosts.git 
 ```
 
-2. Add the path of the nested repository to ```.gitignore```
+2. Add the path to the nested repository to ```.gitignore```
 
 ```bash
 echo '<path>/known_hosts/' >> .gitignore
