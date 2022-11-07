@@ -2,6 +2,10 @@
 
 This repo contains SSH host keys of our servers.
 
+```
+ssh-keyscan -t ed25519 {{hostname}}
+```
+
 ## Setup
 
 Modify github actions to install the ```known_hosts``` file
