@@ -2,6 +2,8 @@
 
 This repo contains SSH host keys of our servers.
 
+## Verify
+
 ```
 ssh-keyscan -t ed25519 {{hostname}}
 ```
